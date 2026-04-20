@@ -1,0 +1,13 @@
+flask
+gunicorn
+numpy
+pandas
+yfinance
+lightgbm
+scikit-learn
+matplotlib
+requests
+textblob
+vaderSentiment
+pandas_ta
+ta
